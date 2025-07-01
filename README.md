@@ -4,11 +4,11 @@ Este repositorio contiene el código y los recursos asociados al Trabajo de Fin 
 ## Estructura del Repositorio
 El repositorio está organizado en carpetas que corresponden a las diferentes fases del proyecto, facilitando la comprensión del flujo de trabajo y la localización de los recursos.
 ```
-├── 01_Consenso_Expertos/
-├── 02_Obtencion_Metrica/
-├── 03_Analisis_Metrica/
-├── 04_Obtencion_Ratings_API/
-├── 05_Prediccion_Ratings_Modelos/
+├── 01_ConsensoExpertos/
+├── 02_ObtencionMetrica/
+├── 03_AnalisisMetrica/
+├── 04_ObtencionRatings/
+├── 05_PrediccionRatings/
 └── README.md
 ```
 
