@@ -1,0 +1,330 @@
+Marca temporal,Nacionalidad,"Rol en fútbol 
+(Elige la opción que mejor te defina en la actualidad)",Años de experiencia,"Definición general del control orientado: Por favor redacta una definición lo más completa posible de lo que consideras que es un control orientado. (200 caracteres max)  
+
+Respuesta abierta, puedes consultar cualquier fuente si así lo necesitas.
+","Elementos clave y Relación con el contexto del juego.
+Para dar valor a esta nueva métrica, debemos tener en cuenta ciertos elementos que influyen en ella.
+En base a la pregunta anterior, y la definición que has aportado, por favor, incluye los elementos que consideres más relevantes según tu opinión.","Indica la importancia que le darías a estos elementos que has especificado en forma de porcentaje, de tal forma que la suma de estos sea del 100%.  ","Marca aquellos factores que consideres más importantes de los siguientes:  
+
+Marca desde 1 hasta todas las opciones
+Incluye otra si lo consideras en otro..","Acciones Posteriores Positivas y sus Ponderaciones: 
+Realiza una valoración del 1 al 10 de acuerdo a la importancia de la acción posterior respecto a la ejecución del control orientado.
+P. ej. • Pase hacia adelante: [7] • Pase hacia atrás: [4] • Tiro: [8] • Gol: [10] • Conducción exitosa: [7] • Otros (especificar): [ ]","¿Qué rango de distancia del pase considerarías para evaluar un buen control orientado?   
+
+P. ej. Corto [< x metros]
+Medio [ < x metros < ]
+Largo [ > x metros]","¿Cómo influye la ubicación en el campo en la calidad del control? Según las zonas del campo, considerando inicio, creación y finalización ordénalas de mayor a menor importancia.
+
+P. ej. 1.Creación, 2.Inicio, 3.Finalización","Teniendo en cuenta la métrica del control orientado que estamos creando, ¿qué aplicaciones prácticas de las siguientes u otras consideras más útiles? 
+(puedes marcar más de una)   ","De la pregunta anterior desarrolla la/s opción/es o tu idea, indicando la aplicabilidad o el análisis correspondiente si lo consideras necesario:  ",¿Crees que esta métrica podría integrarse fácilmente en herramientas de análisis de rendimiento ya existentes?  ,"  ¿Cómo valorarías la importancia del control orientado en el éxito de un equipo? 
+(1: Poco importante - 5: Muy importante)  ","¿Consideras que esta métrica podría ser comprensible y atractiva para el público general si se presentara en transmisiones deportivas o medios?  
+
+  Sí (explica cómo lo harías accesible)
+  No (especifica por qué) ",Comentario adicional sobre cualquier aspecto que creas conveniente:  ,Do you agree to the collection and analysis of your data and the information you provide below.  ,Nationality,"Your relation with football
+(Choose the option that best defines you at the moment)",Years of experience,"General definition of oriented control:
+Please give the most complete definition as possible of what you consider to be a good oriented control.
+(200 characters max)
+
+Open answer, you can consult any source if you need to.","Key elements and relationship with the context of the game.
+
+In order to give value to this new metric, we must take into account certain elements that influence it, according to the game and its context.
+
+Bearing in mind your previous answer, please include the elements that you consider most relevant in your opinion.","Please indicate the importance you would give to these elements you have specified in the previous question as a percentage, so that the sum of these is 100%.  
+","Please tick the factors that you consider most important from the following:  
+
+Mark from 1 to all options
+
+Include any other if you consider it","Positive Subsequent Actions and their Weights:
+
+Rate from 1 to 10 according to the importance of the subsequent action with respect to the execution of the oriented control.
+
+E.g. - Forward pass: [7] - Backward pass: [4] - Shot: [8] - Goal: [10] - Successful driving: [7] - Others (specify): [ ]","What range of pass distance will you consider in assessing a good oriented control?   
+
+E.g. Short [< x metres].
+
+Medium [ < x metres]
+
+Long [ > x metres]","How does the location on the pitch influence the quality of the control? 
+According to the areas of the field, considering defending third, middle third, and attacking third, place these options from most to least important
+
+E.g. 1.Middle Third, 2.Defending Third, 3.Attacking Third","Taking into account the oriented control metric that we are creating, which of the following or other practical applications do you consider most useful?
+(you can tick more than one)   ","From the previous question develop the option(s) or your idea, indicating the applicability or the corresponding analysis if you consider it necessary:  ",Do you think this metric could be easily integrated into existing performance analysis tools?  ,"How would you rate the importance of oriented control in the success of a team? 
+(1: Not very important - 5: Very important)  ","Do you think this metric could be understandable and attractive to the general public if it were presented in sports broadcasts or media?  
+
+Yes (explain how you would make it accessible)
+No (specify why)",Additional comment on any aspect you feel appropriate:  ,"Could you describe a real or hypothetical case
+in which the measurement of 'oriented control’ would be a decisive value for the team performance or tactical decision-making?","¿Podría describir un caso real o hipotético
+en el que la medición del “control orientado” aportase un valor
+decisivo para el rendimiento de un equipo o la toma de decisiones
+tácticas?",Idioma/Language,Formula
+11/02/2025 10:51:31,Española,(Ex)Jugador,23,"Acción en la que, con el primer toque al recibir el balón, lo llevas hacia el lugar que deseas continuar la jugada.","Colocación del cuerpo y el pie, lugar por donde viene el adversario a robar la pelota.","Colocación cuerpo pie 70%, lugar por donde viene el adversario 30%","Posición en el campo (distancia a la portería rival)., Dirección del pase (hacia adelante o hacia atrás).","Pase hacia adelante (9)
+Tiro (10)
+Conduccion (8)","Corto <5 metros
+Medio entre 5 y 15 metros
+Largo <20 metros","Finalización 1, creacion , inicio 3","Evaluación individual de jugadores, Identificación de fortalezas y debilidades en rivales",,,5,"No, necesitas cosas mas visuales y/o prácticas",,,,,,,,,,,,,,,,,,,,A la hora de girar el juego de un lado a otro o un control previo a un golpeo,Español,
+12/02/2025 21:23:26,Español ,(Ex)Jugador,14,"Un control orientado es un primer toque que realiza un jugador a la hora de recibir el balón, intentando alejarlo de cualquier contrincante o bien si está solo dirigir el balón hacia donde haya más espacios libres.","Uno de los elementos más importantes es la calidad del pase que recibe el jugador que va a realizar el control, así como la capacidad técnica que tenga el propio jugador para hacer un mejor o peor control orientado.
+Otro elemento a tener el cuenta es el estado del campo, pudiendo ayudarnos a la hora de orientar nuestro control o dificultando nuestra acción ","Calidad del pase (30%), capacidad técnica del jugador (50%) y estado del campo (20%) ","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Facilidad para jugar posterior al control ","Pase hacia delante [8]
+Pase hacia atrás [6]
+Tiro [9]
+Gol [10] 
+Conducción exitosa [7]
+Evitar rivales [9]
+Proteger balón [8]","Corto [< 7 metros]
+Medio[< 15 metros]
+Largo[< 30 metro]","1. Inicio, 2.Finalizacion, 3. Creación ",Evaluación individual de jugadores,"Como he explicado anteriormente está métrica nos podría ayudar a analizar aquellas acciones en las que la toma de decisiones no haya sido la correcta o que se haya ejecutado de mala manera, dando una alternativa correcta. De la misma manera para las acciones que se han realizado con éxito, la métrica las compararía con aquellas que no, viendo donde hemos fallado para ayudarnos a mejorar ",,5,"Si.
+Con esta métrica podemos dar datos exactos y porcentajes de éxito antes y/o después de realizar la acción gracias al control realizado por el jugador. Es una manera vistosa y atractiva de darle importancia a pequeñas acciones en el juego que nos ayudan a la hora de jugar.",,,,,,,,,,,,,,,,,,,,"En el caso de un equipo de fútbol base que quiera mejorar sus acciones del juego, está métrica sería de gran ayuda.
+Analizamos diversas acciones de juego realizadas por el equipo donde veamos distintas situaciones en las que la toma de decisiones haya sido la correcta o no.
+Al ver estás acciones y con ayuda de este sistema, vemos que en la mayoría de ellas en las que se ha realizado un buen control orientado hemos acabado en ocasiones de gol, recuperaciones de balón, evitamos perdidas...
+Mientras que en aquellas en las que el control ha sido malo o no orientado vemos que la inmensa mayoría han acabado en perdidas de balón con su posterior contraataque en contra o faltas que acaban en la amonestación de nuestros jugadores.
+La métrica nos ayudaría a analizar estas ultimas acciones y generar una alternativa en la cual nuestras tomas de decisiones sean mejores.",Español,
+12/02/2025 21:50:49,Española,(Ex)Jugador,12,Es una acción técnica ofensiva que consiste en recibir el balón y al mismo tiempo dejarlo en predisposición para encadenarlo con la siguiente acción deseada.,"Buen posicionamiento en el campo, buenos perfiles, predisposición de avanzar, analizar el entorno, el pase debe ser preciso.","Buenos perfil del jugador que recibe el balón (60%), predisposición de avanzar (10%), analizar el entorno (10%), el pase debe ser preciso (20%).","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).","Pase hacia adelante 8
+Pase hacia atrás 3
+Tiro 8
+Gol 10
+Conducción exitosa 9",Medio.,1 Creación 2 Finalización 3 Inicio.,Evaluación individual de jugadores,"Un buen control orientado puede convertirse en un regate o en un medio gol, es fundamental en el ataque de un equipo.",,4,"Sí, ya que es una métrica de la que no se suele hablar y sería muy interesante conocer el numero de controles orientados con exito de los jugadores y explicar su importancia.",,,,,,,,,,,,,,,,,,,,N° de veces que el control orientado logra rebasar a un rival.,Español,
+12/02/2025 22:41:20,Española,(Ex)Jugador,15,"La recepción del balón (ya sea a través de un pase, o una intercepción) que dirige automáticamente en un solo toque el balón hacia otra dirección en el terreno de juego y pone en una situación más favorable al que lo realiza correctamente para sortear la presión rival ","Posicionamiento del cuerpo
+Percepción del terreno de juego
+Reacción tras el control
+Realización del control","Posicionamiento del cuerpo 10%
+Percepción del terreno de juego 30%
+Reacción tras el control 15%
+Realización efectiva y dirección del control 45%",Dirección del pase (hacia adelante o hacia atrás).,"Gol 10
+Pase hacia delante 8
+Conducción hacia delante exitosa 8
+Pase hacia atrás 5
+Tiro 8","Corto 3 metros
+Medio 10
+Largo 35",1 Creación 2 Inicio 3 Finalizacion,Evaluación individual de jugadores,,,4,"Si, podria dar al espectador una idea del estilo de juego del equipo, su capacidad para traspasar líneas mediante juego combinativo o más directo",,,,,,,,,,,,,,,,,,,,"Sí, en el caso de que un equipo tuviera muchas perdidas de balón por no realizar bien los controles orientados puede poner el foco en ello y que los jugadores den más importancia y se comience a entrenar más en ese aspecto",Español,
+12/02/2025 22:47:25,España,(Ex)Jugador,18,Control mediante el jugador dirige el balón en una dirección específica con el fin de sacar una situación ventajosa en el juego,"Potencia del pase recibido, posición del cuerpo, conocimiento del entorno y situación en la que se encuentra el jugador","Potencia del pase recibido (20%), posición del cuerpo (50%), conocimiento del entorno y situación en la que se encuentra el jugador (30%)","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).","Gol (10), pase de gol (9), tiro (8), pase para crear situación de ataque (7)",Corto (3m) medio (10m) largo (25m),1. Creación 2. Finalización 3. Inicio,"Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales",,,5,"Si, ya que entendiéndolo y sabiéndolo aplicar en distintas situaciones puede provocar la mejoría técnica de jugadores y equipos",,,,,,,,,,,,,,,,,,,,"En una situación en la que vas a recibir balón y tu rival te aprieta por la parte derecha, realizas control orientado hacia el lado opuesto para evitarlo y lograr una situación con ventaja ",Español,
+12/02/2025 23:05:14,Española,Otros (cualquier empleo relacionado con el fútbol y su análisis),13,Es un movimiento que hace que tengas más tiempo para decidir qué hacer y tengas más claridad a la hora de jugar ,"Colocación del cuerpo, mirar antes de recibir, control pierna alejada.",Colocación 33% Mirar Antes 33% Pierna Alejada 33%,Dirección del pase (hacia adelante o hacia atrás).,Dirección del pase: 8,Medio,Creación Inicio Finalización ,Evaluación individual de jugadores,,,4,"Si, porque a la gente que le gusta el fútbol le gustaría saber cómo poder mejorar ",,,,,,,,,,,,,,,,,,,,"A la hora de sacar el balón, al llevar el balón a una banda, los lateras controlar con la pierna alejada para poder avanzar.",Español,
+13/02/2025 0:01:46,Español ,(Ex)Entrenador,8,Es la acción por la q un jugador recibe el balón y lo pone en disposición de realizar la acción posterior que ha previsto previamente a la recepción del balón ,"Distancia a la portería rival y propia, rivales cercanos, acción siguiente al control, altura del balón, tiempo de juego y resultado","Distancia a la portería rival 20 y propia 10 , rivales cercanos 30, acción siguiente al control  10, altura del balón 5, tiempo de juego 5 y resultado 20","Número de jugadores rivales cercanos., Dirección del pase (hacia adelante o hacia atrás)., resultado ","Pase hacia adelante: [6] • Pase hacia atrás: [4] • Tiro: [8] • Gol: [10] • Conducción exitosa: [6] • Otros (especificar): despeje[5 ]
+
+*
+","Corto 10 m, medio entre 10 y 30, largo +30","3 creación, 2 Inicio, 3 Finalización ","Evaluación individual de jugadores, scouting, periodismo, análisis del juego entre ligas","scouting porque puede ayudar a filtrar jugadores tras este análisis y otras métricas sin necesidad de verlo en directo. periodismo porque para las retransmisiones puede ser un dato interesante , análisis de ligas para ver posibles diferencias en el juego ",,4,"Si, estableciendo una valoración que pueda hacer que se compare entre jugadores y posiciones ",el control orientado es un aspecto determinante del juego y no veo la opción de control orientado regate que tanto usaba Xavi. sería también importante para valorar la capacidad técnica de un portero ,,,,,,,,,,,,,,,,,,,"Scouting, periodismo, cambio de orientación de más de 30 metros ",Español,
+13/02/2025 0:17:31,Española,(Ex)Jugador,28 años,Orientar el balón hacia la zona apropiada del juego,"Perspectiva del juego, entendimiento del juego, partes del pie con la que recibo el balón, perfiles ","Perspectiva 30%, entendimiento 40%,  parte del pie 10%, perfiles 20%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Dirección del pase (hacia adelante o hacia atrás).","Pase hacia delante: 8, pase hacia atrás: 4, tiro: 8, Gol: 9, conducción exitosa: 7","Corto: 8 metros, medio: 15 metros, largo: 25 metros","Inicio, finalización y creación ","Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales",Contando la cantidad de pases acertados hacia delante y correctos que da un equipo,,4,"Sí, entrenando y practicando este gesto desde categorías inferiores",,,,,,,,,,,,,,,,,,,,"La calidad de la progresión en el campo de un equipo, si progresa bien o progresa mal",Español,
+13/02/2025 13:31:11,Española ,(Ex)Jugador,15,Es controlar la pelota orientado casi siempre hacia la portería ,Ee el control e la pelota ,75,"Posición en el campo (distancia a la portería rival)., Calidad de la acción posterior.","Tiro 8, condución 4",Horto 2 metros ,3 finalización ,Análisis táctico del equipo,Termina en gol,,4,"Si, con más datos mejor ",Ninguna ,,,,,,,,,,,,,,,,,,,"Pase al área al delantero, control y disparo a puerta ",Español,
+13/02/2025 13:35:33,Española,Otros (cualquier empleo relacionado con el fútbol y su análisis),15,"Todo aquel control que te permita sacar provecho de la jugada, sin dar opcion al rival de entorpecerla",Precision y vision de juego,50 y 50,"Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).",Pase hacia delante,Largo,"Finalizscio, creacion, Incio",Evaluación individual de jugadores,,,5,"Si, permite entender mejor la calidad de los pases y la de los jugadores",,,,,,,,,,,,,,,,,,,,Los desplazamientos laterales,Español,
+13/02/2025 13:39:06,Española,(Ex)Entrenador,22,Primer toque que permite enlazar la siguiente acción ,"Dominio balón, vision espacio-corporal y rival ",40-40-20,"Número de jugadores rivales cercanos., Calidad de la acción posterior.",8-3-9-10-8,5-20-40,"Finalizacion, creacion, inicio",Evaluación individual de jugadores,Facilidad y posibilidad ,,2,"No, desconocido público general",,,,,,,,,,,,,,,,,,,,Situaciones de 1vs1,Español,
+13/02/2025 13:42:31,España,(Ex)Jugador,12,"Es una técnica que permite recibir el balón y, con el primer toque, dirigirlo hacia una posición ventajosa para la siguiente acción, ya sea un pase, un regate o un disparo. Es clave para el ritmo de juego. ",Posición ventajosa ,100,Calidad de la acción posterior.,10,Corto 5 metros. Medio 15 metros. Largo 25 metros,1 Creacion. 2 Finalizacion. 3 Inicio. ,"Evaluación individual de jugadores, Análisis táctico del equipo",Medir las jugadas prometedoras de gol y valorar cuando vienen precedidas de controles orientados que avanzan hacia una acción posterior prometedora ,,4,"No, poco llamativo. El público general no lo apreciaría. Para análisis más técnico sí. ",,,,,,,,,,,,,,,,,,,,A través de jugadas prometedoras de gol,Español,
+13/02/2025 13:55:08,España,Otros (cualquier empleo relacionado con el fútbol y su análisis),50,Al recibir un pase (normalmente de un compañero) se controla el balón a la vez que se orienta hacia otra zona libre para una siguiente acción,Salvar linea defensiva. Generar pase para elaborar jugada. Generar pase de asistencia. Generar situación de gol. Marcar gol,"Salvar linea defensiva(5%). 
+Generar pase para elaborar jugada.(10%)
+Generar pase de asistencia(25%). 
+Generar situación de gol propia(25%).
+ Marcar gol(35%)","Número de jugadores rivales cercanos., Calidad de la acción posterior., Finalizacion en ocasión clara de gol o gol",Los ejemplos son muy válidos ,Corto[<5] Medio[<10>] Largo[>10]1,1.Inicio. 2.Creación  3.Finalización,Evaluación individual de jugadores,,,4,Si. ,,,,,,,,,,,,,,,,,,,,Ns/Nc,Español,
+13/02/2025 14:50:53,Española,(Ex)Entrenador,34,Recepción del balón en la que con un solo contacto facilitas la acción posterior con el objetivo de progresar en el juego.,"Percepción del entorno, decisión, ejecución y necesidad competitiva del momento.","No lo veo desglosable, es un todo.","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).",10,Todoszdl,Del mismo modo,"Evaluación individual de jugadores, Análisis táctico del equipo",,,4,No entiendo la pregunta,,,,,,,,,,,,,,,,,,,,Va implícito.,Español,
+13/02/2025 14:54:59,Española ,(Ex)Entrenador,Más de 20 como jugador y más de 15 como entrenador ,Controlar de balon de forma perfilada con el objetivo de salir jugando de nuevo. ,Visión de juego. Autocontrol y autopercepción de los movimientos de ti cuerpo y de los demás jugadores. Técnica. ,"Visión de juego 40% 
+Autocontrol y autopercepción 30%
+Técnica 30%","Número de jugadores rivales cercanos., Calidad de la acción posterior.","Pase hacia delante 6
+Pase hacia atrás 6
+Tiro 6
+Gol 8
+Conducción 7","Corto 0.5
+Medio 1
+Largo 1.5","1 finalizar 
+2 crear
+3 inicio 
+
+Aunque creo que todas son igual de importantes. ",Evaluación individual de jugadores,,,4,"Si. Cuando la gente entienda que el fútbol no solo trata de meter más goles que el equipo contrario, sobre todo en categorías inferiores y que hay aspectos por trabajar más allá de la financiación, todo será más entretenido. ",,,,,,,,,,,,,,,,,,,,Un equipo que toca o mueve en uno o dos toques tiene más posibilidades de sorprender al contrario. La orientación en el control nos facilita el poder jugar más rápido. ,Español,
+13/02/2025 14:59:18,Española ,(Ex)Entrenador,13,"Acción técnica que busca recibir y dirigir el balón con solo un contacto hacia la dirección elegida, con el objetivo de crear una ventaja en el juego. ","Que sea solo con un contacto, y que lleve la dirección elegida. ",Un contacto 50% dirección elegida 50% ,"Número de jugadores rivales cercanos., Calidad de la acción posterior.","Regate 8, tiro 9 ","Corto 3-5 metros 
+Medio 10-15 m 
+Largo 25-50 m",Finalización creación inicio ,"Evaluación individual de jugadores, Análisis táctico del equipo",,,5,"No, lo veo algo muy nicho ",,,,,,,,,,,,,,,,,,,,La rapidez en las transiciones según control orientado bueno o malo ,Español,
+13/02/2025 15:49:47,Española ,(Ex)Jugador,18,Dejar el balón en una posición óptima para seguir con tu dirección ,Buen posicionamiento del cuerpo y del pie que controla el balón ,90,"Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).",9,Cualquiera ,Creación ,"Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales",,,4,"Si, se mejoraria mucho la calidad del fútbol y de los controles ",,,,,,,,,,,,,,,,,,,,Cerca del área para sobrepasar a la defensa ,Español,
+13/02/2025 16:06:36,Española,Otros (cualquier empleo relacionado con el fútbol y su análisis),20,"Tras un pase recibido, realizar una acción técnica que me permita, parar o cambiar la dirección del mismo","Pase, perfilamiento, visión de juego","10, 60, 30",Calidad de la acción posterior.,"Pase hacia adelante (8), pase hacia atrás (5), tiro (8), gol (10), conducción exitosa (6), más controles (4)","Corto (< 20 cm), medio (20 cm < 1 mtr), largo (más de 1 mtr)",3 1 2,Evaluación individual de jugadores,"Un buen control orientado es mejor que un regate, pues te permite una acción positiva (pase, tiro) y el rival no lo espera",,5,"Si, pero costaría tiempo hacerla ver al público no entendido frente a otras acciones más visibles ",,,,,,,,,,,,,,,,,,,,Gol de Iniesta en final del Mundial 2010,Español,
+13/02/2025 16:46:13,Lo hacen los jugadores crak. controlan el balon dejandolo en la direccion de su objetivo,(Ex)Jugador,veintiseis,El control orientado es una ventaja posicional que permite aventajar claramente al equipo rival.,"control , técnica e imaginacion",50,"Posición en el campo (distancia a la portería rival)., Calidad de la acción posterior., Adelantarse a las jugadas del equipo contrario",Gol,corto3,3.1.2,Evaluación individual de jugadores,,,5,si,,,,,,,,,,,,,,,,,,,,"Un control orientado te permite adelantarte a uno o varios contrarios , lo que te asegura el poder decidir un pase definitivo o finalizar la jugada",Español,
+13/02/2025 17:32:01,Española,(Ex)Jugador,20,"Gesto técnico que sirve para, además de controlar la trayectoria de un balón, dejarlo en disposición de darle continuidad con una segunda jugada ya preconcebida ","Dirección, velocidad, fuerza y efecto con el que nos viene la pelota. Control visual de los espacios alrededor de nuestra posición. Situación de los diferentes elementos del juego según nuestro objetivo en la próxima jugada.","33,3333 en cada una de las tres","Número de jugadores rivales cercanos., Calidad de la acción posterior.","Gol [10] tiro [8] continuidad en el juego [10]   
+Pase en cualquier dirección [9]",Corto [<1 metro] medio [<1 metro>] largo [>1 metro],"1 finalizacion, 2 creación y 3 inicio",Evaluación individual de jugadores,"Con ese perfil de jugador, los movimientos en salida del balón que debe realizar el resto del equipo son más numerosos y con mayor eficacia",,5,"Si, se podría medir en el tiempo que se tarda en realizar una jugada de larga posesión con controles  orientados en vez de tener que dar dos o tres toques en cada  pase",,,,,,,,,,,,,,,,,,,,Un futbolista con un gran control orientado (por ejemplo Xavi o Kros) no necesitan tantos apoyos de los compañeros para ofrecer salidas a la jugada,Español,
+13/02/2025 18:26:32,Español ,(Ex)Entrenador,11,"Hacerse con el control del balón preparándolo, en e mismo movimiento, para una acción posterior.","- Capacidad técnica para realizar la acción del control.
+- Visión y control del entorno para preparar de la mejor forma la acción posterior.","40%
+60%",Calidad de la acción posterior.,Gol [10]• Conexión exitosa [9] • Pase hacia delante [8] • Pae hacia atrás [7] • Conducción exitosa [6],"Corto < 10
+Medio < 30
+Largo > 30","1. Finalización, 2. Inicio 3. Creación.",Evaluación individual de jugadores,,,4,No. Demasiado específica.,,,,,,,,,,,,,,,,,,,,"Si un equipo tiene jugadores capaces de realizar la acción, se verá reflejado en su velocidad de juego y en el control del mismo; así como en el porcentaje de posesión de pelota. Como la Selección Española  campeona del mundo.",Español,
+13/02/2025 18:52:14,Española,(Ex)Entrenador,10,Situación optima en la que el jugador tiene el balon en posicion perfecta para jugarlo con rapidez y así dar fluidez y velocidad al juego. Esto permite al jugador anticipar y visualizar la siguiente a realizar. Y en ocasiones también es un regate muy efectivo ,"Jugabilidad, Fluidez, velocidad, anticipación de la jugada siguiente. Regate",Fluidez 20; velocidad 20; anticipación de la siguiente jugada: 40. Regate: 20,"Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás)., Confianza, técnica, visión de juegopase e","Pase hacia adelante:7; romper línea: 9; gol 10, desmarque:9, continuidad en el juego:8, velocidad: 8","Corto 1 metro, medio <2 3> largo > 4 metros",1 finalización 2 creación 3 inicio ,"Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales, Técnica individual, visión de juego, toma de decisión ",Lo dicho en la pregunta anterior,,5,"Si. Haciendo incapie en como un buen control puede modificar el ritmo de una jugada, aplicando velocidad y profundidad para así sorprender al rival. Cuantos menos problemas técnicos muestre un jugador más sencillo es introducir conceptos tácticos complejos a nivel individual y colectivo",Para mí el control orientado bien realizado permite crecer a un jugador y a un ewuipo. Me gustará leer los resultados. ,,,,,,,,,,,,,,,,,,,"Si tengo un equipo técnicamente bueno, y con gran conocimiento del juego en todas sus fases, se puede jugar con un sistema que favorezca los apoyos y la aparición del tercer hombre para romper línea. Desamarques",Español,
+13/02/2025 19:18:06,Española,Otros (cualquier empleo relacionado con el fútbol y su análisis),25,Control que me proporciona ventaja sobre el rival para acometer la siguiente jugada.,"Jugador bien perfilado, dominio de las diferentes superficies, visión periférica.",33% cada uno,"Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).",Dirección del pase (7) calidad de la acción posterior (8),"Corto menos de 5M, medio más de 5 hasta 15m, largo más de 15m","3 finalización, 2 creación 1 inicio","Evaluación individual de jugadores, Identificación de fortalezas y debilidades en rivales","Si el equipo genera un alto volumen de juego ofensivo en campo contrario, va relacionado a que sus jugadores suelen tener un buen control orientado.",,4,Si,Nada,,,,,,,,,,,,,,,,,,,Volumen de juego ofensivo ,Español,
+13/02/2025 20:16:07,Panameña ,(Ex)Jugador,35,"El control orientado es una acción técnica que consiste en recibir el balón y dirigirlo  hacia una dirección específica, facilitando el siguiente movimiento o jugada,  que te permita ganar tiempo y evitar la presión del rival y preparar mejor la
+Siguiente acción… Se puede hacer con cualquier parte del cuerpo, excepto con las manos.","Bueno, considero que hay varios elementos claves, fundamentales e importantes con respecto al control orientado. 1- la superficie con la cual lo llevas a cabo: puede ser con el muslo, pecho, borde interno y externo del pie, incluso la cabeza . 2- La orientación corporal, porque te va  ayudar y facilitar la siguiente acción. 3- La toma de decisiones;  antes de recibir el balón, debes de revisar y saber que ocurre a tu alrededor, en tu entorno, para decidir de la mejor manera hacia dónde orientar el control. 4- Precisión en el primer toque: Para darle una velocidad óptima que te permita agilizar el juego y reducir la presión del rival. Y 5. Ganar tiempo y espacio: porque al recibir el balón y darle un solo toque para sacar ventaja sobre el rival,  tendrás más tiempo para la siguiente acción. ","Es una buena pregunta. A ver, seguramente pueda tener una respuesta distinta a la de muchas otras personas. Pero pienso según mi criterio en lo siguiente:
+1- La toma decisiones con un 35%
+2- La orientación corporal con un 30%
+3- La precisión en el primer toque con un 20%
+4- Ganar tiempo y espacio con un 10%
+5- La superficie con un 5% ","Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás)., Las condiciones del terreno de juego.","Es una pregunta también interesante, pero para valorar este tipo de situaciones, también debo decir que: un control orientado perfecto y hacia adelante que me permite tirar a gol y no terminar en gol, mi valoración sería ( 9 ) sin embargo si termina en gol, mi valoración sería ( 10 ),  después de un buen control y para asegurar una posesión dar un pase atrás, mi valoración sería ( 6 ) la misma acción y el pase de gol, mi valoración sería ( 9 ) , pase hacia adelante, sería muy relativa mi valoración ( 6,7,8,9 y 10 ) porque va a depender de como culminaría  esa siguiente acción. ","Corto ( 12-15  metros ) 
+Medio ( 25-30 metros )
+Largo ( 40-60 metros ) ","Realmente todas son importantes, y sería también un tema de debate. Yo lo pondría de esta manera :
+1- Zona de finalización : porque lo más normal es que el jugador ( delantero… ) tiene menos espacios y por lo tanto el control debe de ser rápido y muy preciso,  por la cercanía de los rivales. Si el control es malo, desperdicia una posibilidad de gol. 
+
+2- La zona de creación: Es tal vez la zona más poblada generalmente, pero normalmente es la zona que también la ocupan los jugadores de mayor calidad y por lo tanto suelen salir después de un buen control orientado, muchos pases que terminan en gol. 
+
+3- La zona dé inicio: simplemente porque un mal control en esa zona por un jugador defensor,  es muy arriesgado y podría esto generar una situación de peligro o de gol del equipo rival.","Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales, Diseñar tareas específicas para la mejora del control orientado ",,,4,"Creo rotundamente que si ! Si porque ayudaría mucho a la mejora, a la evolución de los jugadores sobre todo jóvenes. 
+Imagínate poner en imágenes en tiempo real de un partido por ejemplo a jugadores top y poner en detalles los resultados de los mismos , es decir el ranking de los mejores controles orientados de un partido X. Sería algo realmente atractivo y muy interesante de mostrarla de manera visual e intuitiva.",,,,,,,,,,,,,,,,,,,,"Yo pondría el caso hipotético de un equipo que tenga un problema en las transiciones ofensivas por ejemplo. Lo primero es que debes de saber que tienes ese problema. Y a partir de ahí, trabajar para mejorarlo. 
+
+En una transición ofensiva, que debe haber ? 
+
+velocidad, precisión y finalización, por lo tanto y seguramente habrá uno o más controles. Y esto es muy sencillo, con trabajos técnicos donde hayan todos tipos de pases, controles, y sobretodo diseñar tareas en donde haya transiciones con superioridades numéricas en ataque. 
+Puedo asegurar que la mejora de este punto específico, aportará en el rendimiento de un equipo en la toma de decisiones…",Español,
+13/02/2025 21:25:55,,,,,,,,,,,,,,,,,,Indian ,(Ex)Player,10+,"I think in the game a good oriented control would be to be able to control the rhythm of the game, to understand the opponents rhythm and accordingly to that have a rhythm which could beat that, and make there rhythm ineffective!! Like there way of playing the game, in which they feel comfortable!!
+","The elements of the game which I think have great influence are things related to emotional intelligence, I feel that at the end of the during the game, it doesn't matter how talented the player is, if that can't control there emotion and play freely, they can't perform well!! Other then that, I would say, communication, good leadership, and chemistry also have great influence!","Emotional intelligence 50%
+Communication 15%
+Good leadership 15%
+Chemistry 20%","Distance to the opponent's goal, Number of opposing players nearby, Following action quality, Pass direction (forward or backwards)","Forward pass ( 9) backwards pass (8) shot(9), goal ( 10), communication ( 9), emotional intelligence (9), ",Short (10-15metres),"Middle third, defending third, attacking Third ","Individual player evaluation, Tactical analysis of the team",,,1,Yes.. the general public would love to know about this in depth.. but it would only be interested if it is showed in a entertaining way!,,"For example, tactical analysis of the team could help the the payers and coach to understand the game of the opponents and also help to understand their own teams! For example, during the penalty shootout, analysis the opponents teams penalty takers and goalkeeper based on the past data could help a lot, as we have seen in many of the today's games!",,English,
+13/02/2025 22:03:46,Española,(Ex)Jugador,20,"Orientación consciente del balón q tiene una doble finalidad, control y protección, control y pase, control y regate, control y perfil…",Acción q da ventaja y mantiene el control del balón o posesión ,30% ventaja y 70 % mantenimiento posesión ,"Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Posesión ",Regate (8) perfilado (7) ,"No estoy seguro de q la distancia sea determinante en el control orientado, ni siquiera q le añada dificultad.. en una pase largo habrá más amortiguación y en un corto más fuerza y sorpresa","No sé si es importancia o quizá riesgo, cuanto más retrasado más riesgo cuanto más adelantado más importante porque añade velocidad y sopresa","Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales, Tiempo restante, marcador",Creo q se explica bien pero siempre a partir del conocimiento de tus jugadores y tus rivales,,4,"Sí, aporta velocidad al juego, belleza, indica las razones q generan la ventajas en todas las zonas del campo y ocasiones de gol, indica la calidad técnica, explica quien lleva la iniciativa y quien la pierde, ayuda a explicar la posesión, etc", Me he vaciaooo la verdad ,,,,,,,,,,,,,,,,,,,Cuando existen marcajes del rival al hombre y en defensa encimando al jugador más débil técnicamente ,Español,
+13/02/2025 22:17:06,Española,(Ex)Entrenador,18,"Control que se realiza en función a sacar ventaja ante rival, en tiempo, distancia y en espacio, para poder realizar en la acción siguiente a ello, una mejor toma de decisión ante el oponente!","Concentración, visión, percepción en ritmo y velocidad, colocación/posicionamiento, perfil, y acción técnica en función a la superficie a utilizar, posicionamiento de oponentes y compañeros…","Concentración/visión/percepción, etc - 50%
+Acción técnica individual - 50%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás)., Posición de compañeros ","Pasé asociativo, regate, Tiro, Conducción, ",Cualquiera de las tres ,"Finalización, Creación, Inicio ",Evaluación individual de jugadores,Sobrepasar líneas de presión o de orden táctico…,,4,"Si, explicando sus ventajas y beneficios en función a su mejora ","Un buen control orienta, y un buen control orientado, aventaja!",,,,,,,,,,,,,,,,,,,Sobrepasar líneas de presión…,Español,
+13/02/2025 22:45:35,Española,(Ex)Jugador,12,Colocar tu cuerpo de la mejor manera para que a la hora recibir el balón puedas dejarlo a una distancia que te permita dar un pase de seguido,"POSICIONAMIENTO, CONTROL y PASE ","Posicionamiento  (estar bien perfilado) 50%, control (distancia a la que controles el balón) 25% y pase 25% (importa de donde viene y hacia donde mandas el balón) ",Posición en el campo (distancia a la portería rival).,"Pase hacia adelante 8
+Pase hacia atrás 7
+Tiro 9,5
+Gol 10
+Conducción exitosa 8","Corto: 0,5m
+Medio: 1,5m
+Largo: 2,5m",1. Inicio 2. Creación 3. Finalización (influye más a influye menos) ,Identificación de fortalezas y debilidades en rivales,,,4,Si,,,,,,,,,,,,,,,,,,,,"En la zona de iniciación, si el portero realiza buenos controles orientados, puede usarse como jugador de campo.",Español,
+14/02/2025 0:36:14,Española,(Ex)Entrenador,20,"El control orientado es la acción técnica que marca la diferencia, en la relación, espacio, tiempo, ejecución, sacando siempre ventaja en el juego para la siguiente acción. La visión periférica, el perfilamiento, la superficie de contacto adecuada, nos facilitará un buen control orientado.","El tiempo climático, el terreno de juego, el balón, la relación espacio/tiempo, la zona del terreno de juego, el resultado posterior a la acción del control orientado.","30% al tiempo, al terreno.
+20% la zona del terreno y la visión periférica.
+20% superficie de contacto.
+30% acción posterior.","Posición en el campo (distancia a la portería rival)., Calidad de la acción posterior.","Gol 10
+Tiro 9
+Conducción exitosa 8
+Pase en profundidad 7
+Corte de balón 6
+Pase adelante 5
+Pase atrás 4",Largo 30 metros,"Finalización
+Inicio
+Creacion",Evaluación individual de jugadores,,,5,"Si, lo representaría por controles orientados por zonas, y resultados obtenidos tras un buen control orientado y otro mal control.
+Demostrando que sube la efectividad de rendimiento y cara al gol, tras un buen control orientado.",,,,,,,,,,,,,,,,,,,,Una tarea de centro+control orientado+Remate y sacando % de las acciones que terminan en gol.,Español,
+14/02/2025 14:13:53,Española,(Ex)Jugador,18,Es la realización de una recepción de balón en la que aprovechas la inercia que ya tiene el balón para salir en una dirección deseada,"El pase, la orientación del cuerpo y el lugar hacia donde quieres orientarte","20%, 30% y 50%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Dirección del pase (hacia adelante o hacia atrás).",Pase hacia adelante: 9. Pase hacia atrás: 5. Tiro: 9. Gol: 9. Conducción exitosa: 7. ,"Corto <10, Medio 10-25, Largo >30","2, 3, 1","Evaluación individual de jugadores, Análisis táctico del equipo",,,4,Se podría analizar cuanto tiempo ahorra el jugador en una jugada clave orientando su control y no teniendo que dar más toques que el del propio control.,,,,,,,,,,,,,,,,,,,,Cuando un mediocentro se orienta en salida de balón en posición lateral y recibe un pase del central y orienta su control hacia delante para superar la primera linea de presión ,Español,
+14/02/2025 14:20:56,Española,Otros (cualquier empleo relacionado con el fútbol y su análisis),20 años,"Es la posición del cuerpo que se adopta al controlar un balón  procedente de un pase.
+",Una control orientado es imprescindible en el futbol ya que permite ganar tiempo y reducir el número de toques y ganar velocidad en todos los aspectos del fútbol.La técnica del jugador y la inteligencia táctica son fundamentales.,60%,"Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás)., ","1 otros,2pase atrás,3 pase adelante,4 conducción exitosa,4 tiro,5 gol",Medio,"1inicio ,2 finalizaron,3 creación.","Evaluación individual de jugadores, Análisis táctico del equipo","Hay un porcentaje muy alto de calidad- talento del jugador natural,que es difícil de trabajar por medio de estudio.",,5,"Creo que sería poco comprensible para el publico en general de cara a los medios..
+Para la gente que sepa o practique futbol es muy interesante desde luego. ",,,,,,,,,,,,,,,,,,,,"El estudio táctico y disponer de jugadores que eran muy buenos en su control orientado ,le permitió al f.c.Barcelona tener un medio campo perfecto con jugadores como busquet,iniesta,Xavier,cesh fabregas...",Español,
+14/02/2025 14:44:37,Española,(Ex)Jugador,15,"El control orientado en fútbol consiste en recibir el balón y dirigirlo hacia una posición favorable, facilitando el siguiente movimiento y ganando ventaja sobre el rival","	1.	Superficie de contacto.
+	2.	Dirección y orientación.
+	3.	Velocidad del balón.
+	4.	Presión del rival.
+	5.	Espacio disponible.
+	6.	Objetivo táctico.
+	7.	Zona del campo.","Aquí está la importancia de cada elemento en forma de porcentaje:
+	1.	Superficie de contacto: 15%
+	2.	Dirección y orientación: 25%
+	3.	Velocidad del balón: 15%
+	4.	Presión del rival: 20%
+	5.	Espacio disponible: 10%
+	6.	Objetivo táctico: 10%
+	7.	Zona del campo: 5%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).","
+	•	Pase hacia adelante: [7]
+	•	Pase hacia atrás: [4]
+	•	Tiro: [8]
+	•	Gol: [10]
+	•	Conducción exitosa: [7]
+	•	Superar una línea de presión: [8]
+	•	Asistencia: [9]
+	•	Recuperar posesión en transición: [6]","
+	•	Corto: [< 10 metros]
+	•	Medio: [10 - 25 metros]
+	•	Largo: [> 25 metros]","
+	1.	Finalización: Un buen control en esta zona es crucial para generar ocasiones de gol o definir jugadas.
+	2.	Creación: Aquí el control orientado ayuda a conectar líneas y mantener fluidez en el juego, siendo clave para progresar.
+	3.	Inicio: Aunque importante, en esta zona el control busca mayormente mantener posesión y organizar la salida de balón.","Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales","1.	Táctico: La medición del control orientado de ese mediocampista demuestra su capacidad para romper líneas con un solo toque, identificándolo como un jugador clave para salir de la presión.
+	2.	Rendimiento: Analizando la frecuencia y efectividad de estos controles, se podría ajustar la estrategia para asegurar que el balón pase más por este jugador bajo presión.
+	3.	Decisiones: Los datos podrían justificar su posición en el once titular o influir en fichajes, destacando la importancia de jugadores con alta habilidad en controles orientados en zonas de creación o salida.",,5,"Sí, podría ser comprensible y atractiva para el público general, si se presenta de forma clara y visual:
+	1.	Visualización en tiempo real
+	2.	Ejemplos destacados
+	3.	Comparativas entre jugadores
+	4.	Impacto en el juego
+	5.	Analogías sencillas
+
+Hacerlo visual, breve y vincularlo a momentos emocionantes del juego lo convertiría en un recurso atractivo y educativo para el público.",,,,,,,,,,,,,,,,,,,,"Un equipo enfrenta a un rival que ejerce presión alta y constante en la salida del balón. El medio centro del equipo en posesión recibe el balón con un control orientado que le permite superar la línea de presión de dos rivales, dirigiendo el balón hacia un espacio libre. Este movimiento genera una ventaja numérica en ataque, lo que termina en un pase profundo hacia el delantero, quien anota el gol.",Español,
+14/02/2025 15:22:22,Español,(Ex)Jugador,25,"Orientar el control para mi es lo que te da la capidad de no necesitar mas toques o tener que amoldar tu cuerpo para la siguiente accion ya sea un pase, tiro o incluso para superar a un rival",Los ya mencionados,65% yo creo que la calidad de los controles puede definir a un jugador en que categoria jugar,"Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).",Pase hacia delante [5] pase hacia atras [3] tiro [7] centro [6] superar a un rival con el control [8] gol [10],Corto (10m) medio (25m) largo (50m),1 finalizacion  2 creacion 3 inicio,"Evaluación individual de jugadores, Análisis táctico del equipo",,,4,"Si (hay muchas entrevistas de jugadores profesionales que manifiestan lo importante que es un buen control para jugar en categorias altas y poner ejemplos de grandes jugadores como pueden ser modric, dani alves, ronaldinho etc",,,,,,,,,,,,,,,,,,,,"Para poner centros, si hay cambios de orientaciones y los controles al recibir son buenos y bien orientados creo que es clave para poner un buen centro y generar muchas ocasiones de gol",Español,
+14/02/2025 18:06:46,Española,(Ex)Jugador,42,Control en el q tu situación mejore a la situación habitual,Equipo contrario y propio,80,"Número de jugadores rivales cercanos., Calidad de la acción posterior.",10,Medio,1,"Evaluación individual de jugadores, Identificación de fortalezas y debilidades en rivales",No lo conozco,,4,Si,,,,,,,,,,,,,,,,,,,,Depende del control y la zona del campo,Español,
+14/02/2025 19:43:29,Español ,(Ex)Jugador,9,Un control que te permite colocarte el balón para una salida de balón más óptima,Anticipacion al balón y colocación del cuerpo,65%,"Número de jugadores rivales cercanos., Dirección del pase (hacia adelante o hacia atrás).",7,Medio,"3,1,2","Evaluación individual de jugadores, Análisis táctico del equipo",,,3,No creo que el público general captase su atención ,,,,,,,,,,,,,,,,,,,,Control del centro del campo y posesiones,Español,
+15/02/2025 19:56:25,Española,(Ex)Jugador,18,"Acción técnica ofensiva en la que el jugador se mantiene con la posesión del balón, dejándolo en disposición de ser jugado para una acción posterior.",Intención del futbolista de proseguir con una acción posterior.,100%,"Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos.",Gol (10),"Si la.acción posterior es exitosa, todas tienen la misma importancia, independientemente de la distancia del pase.","1. Finalización, 2. Creación, 3. Inicio",Evaluación individual de jugadores,,,5,Incluyendo comunicadores con mayor conocimiento futbolistico.,,,,,,,,,,,,,,,,,,,,"Control orientado para progresar y superar a un adversario, generando así una superioridad en el resto de zonas del campo.",Español,
+16/02/2025 1:51:37,Española,(Ex)Jugador,60,Se refiere a controlar el balón de juego cuando te llega orientándolo en una dirección que te de ventaja en el juego con respecto al equipo contrario ,Control balón ventaja ,"Balón 50%,  ventajas 30%, control 20%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).","Gol 10, Tiro 9, Pase adelante 8, Pase atrás 7, ConducciónCorto 6.","Corto 1 metro, medio 5 metros, largo 15 metros ","1. Finalización, 2. Creación, 3. Iniciación , ","Evaluación individual de jugadores, Identificación de fortalezas y debilidades en rivales, Técnica ",Atacante coge ventaja sobre su defensor pude consiguiendo ventaja defendiendo balón con su cuerpo o incluso de distancia con respecto a su defensor ,,5,Si. El público vería una formación técnica del jugador y un fútbol inteligente por parte de este sabiendo aprovecharlo ,,,,,,,,,,,,,,,,,,,,Pases finales para que el jugador atacante consiga ventaja sobre su defensor y pueda definir con más certeza de cara al gol,Español,
+16/02/2025 2:02:59,Español,(Ex)Jugador,17,Recepción del esférico y adecuación del mismo hacia una posición que aumente las probabilidades de éxito de la jugada y la fluidez del juego.,"Técnica individual 
+Contexto del juego
+Situacion en el campo
+Situación de los rivales
+Precisión de emisor del pase","Técnica individual 35%
+Contexto del juego 10%
+Situacion en el campo 20%
+Situación de los rivales 20%
+Precisión de emisor del pase 15%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).","1 Floritura innecesaria
+2 Regate de portero a jugador
+3 Despeje de balón 
+4 Pase hacia detrás 
+5 Pase hacia delante
+6 Cambio de orientación 
+7 Pase al hueco
+8 Asistencia 
+9 Tiro en buena situación
+10 Gol","Corto <10m
+Medio <20m
+Largo <30m"," 1.Creación, 2.Inicio, 3.Finalización","Evaluación individual de jugadores, Análisis táctico del equipo",Mejorar el control orientado de los jugadores para mejorar la fluidez de conducción y así aumentar las oportunidades de gol y reducir la pérdida de balones.,,5,"Si, a través de un programa de conteo de controles y su efectividad.",Gracias,,,,,,,,,,,,,,,,,,,Si.,Español,
+16/02/2025 17:02:07,,,,,,,,,,,,,,,,,,Swiss,(Ex)Player,10+,"A good oriented control in my opinion is not only where one controls the incoming ball in a way that creates space for him / away from the opponent but also thought one step ahead. Meaning this created space is useful, allows him to score or make a dangerous pass for example behind the defense line. ",Creating space to execute a useful next step,"Creating space = 80%, executing a useful next step = 20%","Number of opposing players nearby, Following action quality, Pass direction (forward or backwards)",For me oriented control is all about successfully driving the ball towards the opponents goal. ,All distances as long as they are productive meaning leading towards a goal scoring opportunity,Equally 33%,"Individual player evaluation, Tactical analysis of the team",,,4,Yes but it must be measurable - maybe some sort of ai could be trained to measure that,,From the perspective that oriented control for me is all about successfully driving the ball forward it could be used as a messurement for all types of player —> who can cover the most useful space in the shortest amount of touches and or time. ,,English,
+16/02/2025 19:00:32,Española,(Ex)Jugador,20,Controlar un balón y a la vez orientarlo para la siguiente acción ,"Posición, perfil y perspectiva.","Posición 40%, perfil 40 % y perspectiva 20%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Calidad de la acción posterior., Dirección del pase (hacia adelante o hacia atrás).","Gol 10, pase hacia adelante y hacia atrás 8, conducción 8, tiro 8","Corto 6 metros, Medio 12 metros y Largo 40 metros","1. Inicio, 2. Creación, 3. Finalizacion ","Evaluación individual de jugadores, Análisis táctico del equipo",En fase defensiva te permite una mejora en el inicio y creación de la jugada. En fasa ofensiva mayor probabilidad de conseguir un gol,,5,"Sí, analizando la jugada desde el inicio",,,,,,,,,,,,,,,,,,,,Un control orientado te da ventaja en la siguiente acción ,Español,
+16/02/2025 19:55:32,Española,(Ex)Jugador,17,"Un control orientado consiste en recibir y orientar el balón al lugar deseado empleando un único toque, permitiendo dirigir la pelota a la dirección y con la velocidad que permita anticipar jugadas, facilitar transiciones y sacar ventaja a los defensores.","Para mí, los elementos más importantes del control orientado son los siguientes:
+
+- Recepción y orientación precisa
+- Dirección dada al balón
+- Velocidad dada al balón
+- Visión y anticipación","- Recepción y orientación precisa: 30%
+- Dirección dada al balón: 20%
+- Velocidad dada al balón: 20%
+- Visión y anticipación: 30%","Número de jugadores rivales cercanos., Calidad de la acción posterior.","Pase hacia adelante: [8]
+Pase hacia atrás: [5]
+Tiro: [9]
+Gol: [10]
+Conducción exitosa: [6]
+Otros (especificar): Superar líneas [9]","Corto [< 1 metro]
+
+Medio [ > 1 metro < 3 metros]
+
+Largo [> 3 metros]","1.Creación, 2.Finalización, 3.Inicio","Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales",,,4,"Sí.
+
+Si se presenta con gráficos simples y explicaciones claras, el público puede entender cómo un toque decisivo influye en el juego. Esto no solo enriquece la experiencia visual de la transmisión, sino que también conecta emocionalmente al espectador con momentos clave del partido.",,,,,,,,,,,,,,,,,,,,"Imaginemos un partido en el se detecta que el equipo genera mayor peligro cada vez que uno de sus mediocampistas hace un control orientado con éxito. Los datos muestran que tras esa acción, la probabilidad de generar una jugada de peligro aumenta significativamente. Con esta información, el técnico decide darle mayor libertad a ese jugador en la zona de creación y ajustar la estrategia para favorecer este tipo de jugadas.",Español,
+16/02/2025 21:17:29,,,,,,,,,,,,,,,,,,Finnish,(Ex)Player,15,You have a good oriented control when you can take the first touch to the direction you want and easily continue game.,"Time, situational awareness, number of options, ball touch (skills)","Time 20%, situational awareness 30%, number of options 25%, ball touch (skills) 25%",Number of opposing players nearby,"Forward pass: [6]
+Backward pass: [4]
+Shot: [9]
+Goal: [10]
+Successful driving: [7]","Short < 16 m
+Medium < 35 m
+Long > 35 m",1. Middle 2. Defending 3. Attacking,Tactical analysis of the team,,,4,"Yes, video or graphical illustration could help, figures If printed",,Hypothetical,,English,
+16/02/2025 23:07:34,Española,(Ex)Jugador,20,Un control orientado es una acción técnica que se realiza para sacar una ventaja en relación a un pase previo realizado por un compañero.,"Pase, técnica,precisión.",80%,"Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Dirección del pase (hacia adelante o hacia atrás).",7,Medio,"3,1,2",Evaluación individual de jugadores,,,3,"Si, realizando una explicación de en qué consiste y sacando las posibles ventajas que puedes tener al realizar bien esta acción.",,,,,,,,,,,,,,,,,,,,"Un jugador recibe un balon en el medio del campo presionado por otro jugador rival, realizando un buen control orientado puedes liberar esa presión rival. ",Español,
+18/02/2025 14:02:37,Española,(Ex)Entrenador,15,"Es un control que nos permite ahorrar tiempo para realizar la siguiente acción , que ya puede ser un pase, regate o disparo. ","Rival, espacio, lugar del campo donde se realice.","rival (60), espacio( 30), lugar (10)","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Dirección del pase (hacia adelante o hacia atrás).","Siguiendo el mismo orden: 6,2,9,10,8","corto( 1-7m), medio(7-15m), largo(16m-infinito)","1 finalización, 2 creación, 3 inicio","Evaluación individual de jugadores, Análisis táctico del equipo","Control orientado hacia el centro de los dos jugadores rivales para sobrepasar esa línea, o ya bien control orientado hacia atrás para dar pase de seguridad a compañero libre",,4,"si, sería una ayuda para analistas y entrenadores en situaciones del partido donde el rival presione a diferentes jugadores de diferentes formas",,,,,,,,,,,,,,,,,,,,"Recibir el balón con la presión de dos rivales, uno por cada lado.",Español,
+19/02/2025 7:02:34,Español,(Ex)Entrenador,8,Recepción del balón por parte de un jugador para ponerlo en disposición para una acción posterior.,"Principal la orientación del cuerpo del receptor con respecto al balón antes de recibirlo y en función a la acción posterior a realizar.
+Y el Contacto con el balón (que superficie del cuerpo a utilizar, que intensidad o sutileza, que dirección toma el balón después de tocarlo).","Orientación del cuerpo del receptor: 50%
+Toque del balón (el control en si mismo): 50%","Posición en el campo (distancia a la portería rival)., Número de jugadores rivales cercanos., Orientación del jugador previa a recibir el balón.",Buscar distancia con respecto al rival. 10,Todos.,Mayor dificultad cuanto más cercana sea la posición con respecto a la portería contraria.,"Evaluación individual de jugadores, Análisis táctico del equipo, Identificación de fortalezas y debilidades en rivales","Éxito o no.
+De acciones previas a un centro desde las bandas en una zona determinada del ataque.",,5,Si,"Aspecto fundamental en el fútbol.
+Para cualquier posición que ocupe un jugador en el campo.
+Incluido, hoy en día, el portero.",,,,,,,,,,,,,,,,,,,"Llegadas por fuera, por bandas de un equipo con un determinado disposición táctica de un equipo.",Español,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ball control in football refers to a player's ability to maintain possession of the ball, using their body and skills to manipulate the ball effectively while being pressured by opponents. It involves various elements such as dribbling, first touch, agility, and composure.
+
+To create a mathematical formula that quantifies ball control, we need to consider several variables that contribute to effective ball control. Here are some key factors and their possible weights based on their importance:
+
+1. **First Touch (FT)**: The player's ability to control the ball effectively with their first touch, setting up subsequent actions.
+2. **Dribbling Skills (DS)**: The ability to maneuver the ball past opponents while maintaining control.
+3. **Composure (CP)**: Remaining calm and making good decisions under pressure.
+4. **Agility (AG)**: Quick and precise movement changes with the ball.
+5. **Ball Retention under Pressure (BR)**: Ability to keep the ball when challenged by defenders.
+
+### Assigning Weights
+
+Each of these factors can be weighted differently based on their impact on overall ball control:
+
+- **First Touch (FT)**: 30%
+- **Dribbling Skills (DS)**: 25%
+- **Composure (CP)**: 20%
+- **Agility (AG)**: 15%
+- **Ball Retention under Pressure (BR)**: 10%
+
+These weights are assigned based on the reasoning that a good first touch sets the stage for effective control and is crucial for high-level play. Dribbling skills are essential but slightly less so than the first touch. Composure, while important, is more about decision-making than physical control. Agility enhances control but is less frequently used than the first touch and dribbling. Ball retention under pressure, while critical, is considered part of the broader dribbling and composure skills.
+
+### Mathematical Formula
+
+We can then construct a formula to calculate a Ball Control Score (BCS) as follows:
+
+\[ \text{BCS} = 0.30 \times \text{FT} + 0.25 \times \text{DS} + 0.20 \times \text{CP} + 0.15 \times \text{AG} + 0.10 \times \text{BR} \]
+
+Where:
+- BCS = Ball Control Score
+- FT = First Touch score (out of 10)
+- DS = Dribbling Skills score (out of 10)
+- CP = Composure score (out of 10)
+- AG = Agility score (out of 10)
+- BR = Ball Retention under Pressure score (out of 10)
+
+Each component score should be evaluated based on observation, player performance data, or specific drills designed to test each attribute. The formula provides a weighted average that reflects the overall ball control ability of a player."
